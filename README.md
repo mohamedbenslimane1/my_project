@@ -9,3 +9,8 @@ This project simulates a Gaussian distribution, displays its statistical propert
    ```bash
    git clone https://github.com/yourusername/my_project.git
    cd my_project
+
+2. Build the Docker Container:
+   ```bash
+   docker build -t my-streamlit-app .
+   docker run -p 8501:8501 my-streamlit-app
