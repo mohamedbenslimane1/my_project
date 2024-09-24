@@ -7,7 +7,7 @@ This project simulates a Gaussian distribution, displays its statistical propert
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my_project.git
+   git clone https://github.com/mohamedbenslimane1/my_project.git
    cd my_project
 
 2. Build the Docker Container:
